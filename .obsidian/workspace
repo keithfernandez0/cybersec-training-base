@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "bb94c4ca2d2f410e",
+    "type": "split",
+    "children": [
+      {
+        "id": "099594afcf39f415",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b761d46d97676d87",
+    "type": "split",
+    "children": [
+      {
+        "id": "c19625f64651ba0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8645ecd01668597c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d753002d0393b0d3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f604af3266d1056f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7de97a29ae1c8ba8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c36c7eb79417a90",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "33c1884cb3217057",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "099594afcf39f415",
+  "lastOpenFiles": [
+    "README.md",
+    "Templates/Core Zettel.md",
+    "Templates/Map Of Content.md",
+    "Untitled.md"
+  ]
+}
