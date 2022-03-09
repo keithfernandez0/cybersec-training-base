@@ -1,4 +1,4 @@
-# cybersec-training-base
+# Cybersecurity & Pentesting Notes Base
 ### Obsidian Vault and environment files for studying cybersecurity concepts.
 Some learning tools that will be used:
 - TryHackMe
