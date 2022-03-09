@@ -7,5 +7,5 @@ Some learning tools that will be used:
 - PicoCTF
 - Certification training materials
 ---
-This repository also has some of my personal plugin files and preferences in their respective JSON files. Feel free to remove or add on to them.
-Also this repo is best used with the Obsidian markdown editor as it allows you to link your notes to each other, and create a mindmap of related concepts.
+This repository also has some of my personal plugin files and preferences in their respective JSON and Javascript files. Feel free to remove or add on to them.
+Also this repo is best used with the Obsidian markdown editor as it allows you to link your notes to each other, and create a mindmap of related concepts. The wikilinks feature is great, but these notes should still be useful even if you don't use the ediitor.
