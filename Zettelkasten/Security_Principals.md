@@ -36,6 +36,12 @@ PAM is the management of said user privileges.
 There is a principle of least privilege, meaning that a user should be given the least amount of privileges possible while still allowing the minimum amount so they can complete their tasks.
 
 PAM involves more of the assignment of said privileges, and also involved the enforcement of security policy to reduce the attack surface of a system.
+___
+### Security Models (Continued)
+#### Bell-La Paluda Model
+Model works in a top-down style, users on top of the hierarchy can view down, but users on the bottom can look up the hierarchy.
+
+*This model assumes you have an established hierarchy and have good user roles with a vetting process.*
 
 
 ___
