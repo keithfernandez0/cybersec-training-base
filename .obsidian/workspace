@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/TryHackMe/JrPentester/001_Pentesting_Fundamentals.md",
+                "file": "Zettelkasten/OverTheWire/001_Bandit/placeholder.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,7 +26,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/TryHackMe/JrPentester/001_Pentesting_Fundamentals.md",
+                "file": "Zettelkasten/OverTheWire/001_Bandit/placeholder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/TryHackMe/JrPentester/001_Pentesting_Fundamentals.md",
+                "file": "Zettelkasten/OverTheWire/001_Bandit/placeholder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,10 +115,11 @@
   },
   "active": "099594afcf39f415",
   "lastOpenFiles": [
+    "Zettelkasten/OverTheWire/001_Bandit/placeholder.md",
+    "Zettelkasten/OverTheWire/Bandit.md",
     "Zettelkasten/TryHackMe/JrPentester/001_Pentesting_Fundamentals.md",
     "Zettelkasten/TryHackMe/JrPentester/002_Security_Principals.md",
     "Files/OSSTMM.3.pdf",
-    "Zettelkasten/OverTheWire/Bandit.md",
     "README.md",
     "Templates/Map Of Content.md",
     "Templates/Core Zettel.md",
