@@ -4128,7 +4128,6 @@ var CursorJumper = class {
       return;
     }
     const editor = active_view.editor;
-    editor.focus();
     const selections = [];
     for (const pos of positions) {
       selections.push({ from: pos });
