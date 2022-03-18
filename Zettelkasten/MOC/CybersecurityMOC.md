@@ -1,4 +1,6 @@
-Status: #pentesting #cybersecurity #writeup #malware #tryhackme 
+Creation date: 2022-03-17 22:58
+Modification date: Thursday 17th March 2022 22:58:00
+Status: #pentesting #cybersecurity #writeup #malware #tryhackme #overthewire 
 
 # Penetration Testing and Cybersecurity MOC
 ## Links to notes
@@ -9,7 +11,7 @@ Status: #pentesting #cybersecurity #writeup #malware #tryhackme
 3. [[003_Manual_Website_Overview]] ->
 
 ### OverTheWire
-1. [[001test]]
+1. [[001_test]]
 
 ### CVE / Malware Analysis Formatting Practice
 Link to the template: 
