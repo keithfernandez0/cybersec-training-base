@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/MOC/CybersecurityMOC.md",
+            "file": "Zettelkasten/MalwareWriteupsPractice/placeholder.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/MOC/CybersecurityMOC.md",
+                "file": "Zettelkasten/MalwareWriteupsPractice/placeholder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,14 +89,14 @@
   },
   "active": "099594afcf39f415",
   "lastOpenFiles": [
-    "Zettelkasten/MOC/CybersecurityMOC.md",
+    "Zettelkasten/MalwareWriteupsPractice/placeholder.md",
     "Templates/CVE Formatting Template.md",
+    "Zettelkasten/MOC/CybersecurityMOC.md",
     "Templates/Map Of Content.md",
     "Templates/Core Zettel.md",
     "Files/CVE-2021-44228.pdf",
     "Files/CVE-2022-22806.pdf",
     "Files/RulesOfEngagement.pdf",
-    "Zettelkasten/MalwareWriteupsPractice/Untitled.md",
     "Zettelkasten/Sample_JSON_CVE.md",
     "Zettelkasten/TryHackMe/JrPentester/001_Pentesting_Fundamentals.md"
   ]
