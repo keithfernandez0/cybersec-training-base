@@ -7,11 +7,9 @@
         "id": "099594afcf39f415",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "Zettelkasten/MOC/CybersecurityMOC.md",
-            "mode": "source",
-            "source": false
+            "file": "Files/CVE-2021-44228.pdf"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/MOC/CybersecurityMOC.md",
+                "file": "Files/CVE-2021-44228.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +87,15 @@
   },
   "active": "099594afcf39f415",
   "lastOpenFiles": [
+    "Files/CVE-2021-44228.pdf",
     "Zettelkasten/MOC/CybersecurityMOC.md",
+    "Templates/CVE Formatting Template.md",
+    "Templates/Map Of Content.md",
+    "Zettelkasten/CTF Practice/HackTheBox/placehold.md",
+    "Zettelkasten/CTF Practice/OverTheWire/placehold.md",
+    "Zettelkasten/CTF Practice/PicoCTF/placeholder.md",
+    "Zettelkasten/Learning C/placeholder.md",
     "References/test.md",
-    "Zettelkasten/TryHackMe/JrPentester/004_Test.md",
-    "Zettelkasten/MalwareWriteupsPractice/placeholder.md",
-    "Zettelkasten/MalwareWriteupsPractice/placeholder.md",
-    "Zettelkasten/OverTheWire/001_Bandit/001_test.md",
-    "Zettelkasten/TryHackMe/JrPentester/002_Security_Principals.md",
-    "Zettelkasten/TryHackMe/JrPentester/003_Manual_Website_Overview.md",
-    "Zettelkasten/TryHackMe/JrPentester/001_Pentesting_Fundamentals.md",
-    "Zettelkasten/CybersecurityMOC, [[002_Security_Principals.md"
+    "Zettelkasten/TryHackMe/JrPentester/004_Test.md"
   ]
 }
