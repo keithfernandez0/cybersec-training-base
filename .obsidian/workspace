@@ -9,7 +9,7 @@
         "state": {
           "type": "pdf",
           "state": {
-            "file": "Files/CVE-2021-44228.pdf"
+            "file": "Files/CNotesForProfessionals.pdf"
           }
         }
       }
@@ -67,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files/CVE-2021-44228.pdf",
+                "file": "Files/CNotesForProfessionals.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "099594afcf39f415",
   "lastOpenFiles": [
+    "Files/CNotesForProfessionals.pdf",
     "Files/CVE-2021-44228.pdf",
+    "Files/OSSTMM.3.pdf",
+    "Files/RulesOfEngagement.pdf",
     "Zettelkasten/MOC/CybersecurityMOC.md",
     "Templates/CVE Formatting Template.md",
     "Templates/Map Of Content.md",
     "Zettelkasten/CTF Practice/HackTheBox/placehold.md",
     "Zettelkasten/CTF Practice/OverTheWire/placehold.md",
-    "Zettelkasten/CTF Practice/PicoCTF/placeholder.md",
-    "Zettelkasten/Learning C/placeholder.md",
-    "References/test.md",
-    "Zettelkasten/TryHackMe/JrPentester/004_Test.md"
+    "Zettelkasten/CTF Practice/PicoCTF/placeholder.md"
   ]
 }
